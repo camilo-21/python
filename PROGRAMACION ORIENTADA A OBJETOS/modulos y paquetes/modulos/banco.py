@@ -2,7 +2,7 @@ import random
 
 
 class Banco:
-    def _imit_(self):
+    def _init_(self):
         self.cuenta = 0
         
     def crearCuenta(self):

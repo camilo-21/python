@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./examen"
+        "./examen",
+        "./PROGRAMACION ORIENTADA A OBJETOS/TALLER POO/modulo"
     ]
 }
